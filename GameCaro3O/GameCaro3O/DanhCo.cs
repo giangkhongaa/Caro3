@@ -37,7 +37,6 @@ namespace GameCaro3O
       }
       public void NewGame(Graphics g)
       {
-string test="test conflit";
           Banco.VeBanCo(g);
           foreach (Oco oco in DanhsachCoDaDanh)
               oco.Sohuu = 0;
