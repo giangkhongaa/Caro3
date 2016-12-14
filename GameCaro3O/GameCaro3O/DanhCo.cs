@@ -17,6 +17,7 @@ namespace GameCaro3O
     }
   public  class DanhCo
     {
+
       SolidBrush maudo, mauxanh;
       Oco[,] mang;
       //int luotdanh;
@@ -36,7 +37,6 @@ namespace GameCaro3O
       }
       public void NewGame(Graphics g)
       {
-	string test="Test conflit"; int abc=0;	
           Banco.VeBanCo(g);
           foreach (Oco oco in DanhsachCoDaDanh)
               oco.Sohuu = 0;
