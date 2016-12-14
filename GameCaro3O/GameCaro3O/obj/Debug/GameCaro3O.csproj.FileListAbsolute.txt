@@ -1,0 +1,9 @@
+C:\Users\giang\Desktop\GameCaro3O\GameCaro3O\bin\Debug\GameCaro3O.exe.config
+C:\Users\giang\Desktop\GameCaro3O\GameCaro3O\bin\Debug\GameCaro3O.exe
+C:\Users\giang\Desktop\GameCaro3O\GameCaro3O\bin\Debug\GameCaro3O.pdb
+C:\Users\giang\Desktop\GameCaro3O\GameCaro3O\obj\Debug\GameCaro3O.csprojResolveAssemblyReference.cache
+C:\Users\giang\Desktop\GameCaro3O\GameCaro3O\obj\Debug\GameCaro3O.Caro3O.resources
+C:\Users\giang\Desktop\GameCaro3O\GameCaro3O\obj\Debug\GameCaro3O.Properties.Resources.resources
+C:\Users\giang\Desktop\GameCaro3O\GameCaro3O\obj\Debug\GameCaro3O.csproj.GenerateResource.Cache
+C:\Users\giang\Desktop\GameCaro3O\GameCaro3O\obj\Debug\GameCaro3O.exe
+C:\Users\giang\Desktop\GameCaro3O\GameCaro3O\obj\Debug\GameCaro3O.pdb
